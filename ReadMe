@@ -1,3 +1,4 @@
 prerequisites
 	1. install python or change the existing version using: alias python=/usr/bin/python3.8
 	2. pip install opencv-contrib-python
+	3. Reference video : https://www.youtube.com/watch?v=eLTLtUVuuy4
